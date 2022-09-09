@@ -1,0 +1,16 @@
+gfxheight=128
+gfxwidth=140
+height=128
+width=140
+npcblock=0
+npcblocktop=0
+noblockcollision=1
+nogravity=1
+jumphurt=1
+noyoshi=1
+speed=0.40
+nofireball=1
+nojump=1
+nohammer=1
+noiceball=1
+nospinjump=1
